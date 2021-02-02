@@ -1,0 +1,7 @@
+alias mci="mvn clean install -Dmaven.test.skip=true"
+alias scpiem="/Users/mearnic/Library/Mobile\ Documents/com\~apple\~CloudDocs/Common/bash/iem/scp_iem.sh"
+alias sshalias="/Users/mearnic/Library/Mobile\ Documents/com\~apple\~CloudDocs/Common/bash/ssh_alias.sh"
+alias iemstart="/Users/mearnic/Library/Mobile\ Documents/com\~apple\~CloudDocs/Common/bash/iem/iem_start.sh"
+alias iemstop="/Users/mearnic/Library/Mobile\ Documents/com\~apple\~CloudDocs/Common/bash/iem/iem_stop.sh"
+alias show="/Users/mearnic/Library/Mobile\ Documents/com\~apple\~CloudDocs/Common/bash/show.sh"
+alias v2rayport="/Users/mearnic/Library/Mobile\ Documents/com\~apple\~CloudDocs/Common/bash/v2ray_port.sh"
