@@ -105,3 +105,12 @@ source ~/.bash_profile
 if [ -f ~/.aliasrc ]; then
     . ~/.aliasrc
 fi
+
+# HomeBrew
+export HOMEBREW_BOTTLE_DOMAIN=https://mirrors.ustc.edu.cn/homebrew-bottles
+export PATH="/usr/local/bin:$PATH"
+export PATH="/usr/local/sbin:$PATH"
+# HomeBrew END
+
+
+[ -f ~/.fzf.zsh ] && source ~/.fzf.zsh
