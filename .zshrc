@@ -114,3 +114,4 @@ export PATH="/usr/local/sbin:$PATH"
 
 
 [ -f ~/.fzf.zsh ] && source ~/.fzf.zsh
+export PATH="/usr/local/opt/mysql@5.7/bin:$PATH"
